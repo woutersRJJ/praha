@@ -6,7 +6,7 @@ export function ExperiencePage(){
         <p>And no wonder. Against the backdrop of magnificent architecture, it comes alive with theatre, music, and gastronomy festivals, an alternative scene, and even new circus.</p>
         <p>So what are you in the mood for today?</p>
 
-        <h2>trands and tips</h2>
+        <h2>Trends and tips</h2>
         <p>We, the people of Prague, love to celebrate, and we are always organising new cultural events. You can enjoy Prague whether you are here with your children or with friends, whether you are a wine lover or a sightseer.</p>
         <p>That's why we've put this section together and will regularly bring you tips for great experiences in our Mother of Cities.</p>
 
