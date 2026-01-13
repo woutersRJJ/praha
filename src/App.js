@@ -3,13 +3,13 @@ import {Header} from "./components/Header";
 import {Footer} from "./components/Footer";
 import {HomePage} from "./components/routes/Homepage";
 import {Sidebar} from "./components/Sidebar";
-import {HashRouter,Routes,Route} from "react-router-dom";
 import {DiscoverPage} from "./components/routes/DiscoverPage";
 import {ExperiencePage} from "./components/routes/ExperiencePage";
+import {Route, Routes} from "react-router-dom";
 
 function App() {
     return (
-        <HashRouter>
+        // <HashRouter>
             <div className="body">
                 <Header/>
                 <Sidebar/>
@@ -22,7 +22,7 @@ function App() {
                 </main>
                 <Footer/>
             </div>
-        </HashRouter>
+        // </HashRouter>
     );
 }
 
