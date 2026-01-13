@@ -6,7 +6,8 @@ export function Header() {
             <h1>Prague CZ</h1>
             <nav className="header-nav">
                 <NavLink to="/">Home</NavLink>
-                <NavLink to="/favorites">Favorites</NavLink>
+                <NavLink to="/discover">Discover</NavLink>
+                <NavLink to="/experience">Experience</NavLink>
             </nav>
         </header>
     );

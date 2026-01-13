@@ -4,7 +4,8 @@ import {Footer} from "./components/Footer";
 import {HomePage} from "./components/routes/Homepage";
 import {Sidebar} from "./components/Sidebar";
 import {HashRouter,Routes,Route} from "react-router-dom";
-import {FavoritesPage} from "./components/routes/FavoritesPage";
+import {DiscoverPage} from "./components/routes/DiscoverPage";
+import {ExperiencePage} from "./components/routes/ExperiencePage";
 
 function App() {
     return (
@@ -15,7 +16,8 @@ function App() {
                 <main>
                     <Routes>
                         <Route path="/" element={<HomePage />} />
-                        <Route path="/favorites" element={<FavoritesPage />} />
+                        <Route path="/discover" element={<DiscoverPage />} />
+                        <Route path="/experience" element={<ExperiencePage />} />
                     </Routes>
                 </main>
                 <Footer/>
