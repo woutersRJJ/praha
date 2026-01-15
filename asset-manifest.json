@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/praha/static/css/main.b2d362fb.css",
-    "main.js": "/praha/static/js/main.76b82019.js",
+    "main.css": "/praha/static/css/main.705fbf83.css",
+    "main.js": "/praha/static/js/main.9d6aa284.js",
     "static/js/453.ec094bcc.chunk.js": "/praha/static/js/453.ec094bcc.chunk.js",
     "index.html": "/praha/index.html",
-    "main.b2d362fb.css.map": "/praha/static/css/main.b2d362fb.css.map",
-    "main.76b82019.js.map": "/praha/static/js/main.76b82019.js.map",
+    "main.705fbf83.css.map": "/praha/static/css/main.705fbf83.css.map",
+    "main.9d6aa284.js.map": "/praha/static/js/main.9d6aa284.js.map",
     "453.ec094bcc.chunk.js.map": "/praha/static/js/453.ec094bcc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2d362fb.css",
-    "static/js/main.76b82019.js"
+    "static/css/main.705fbf83.css",
+    "static/js/main.9d6aa284.js"
   ]
 }
